@@ -1,8 +1,8 @@
 <script>
   import { invoke } from "@tauri-apps/api/tauri";
   import stop from "../../sources/stop.mp4";
-  const url1 = "https://raw.githubusercontent.com/calisfed/aieospeak/main/part1.txt"
-  const url2 = "https://raw.githubusercontent.com/calisfed/aieospeak/main/part2.txt"
+  const url1 = "https://raw.githubusercontent.com/calisfed/aieospeak/main/sources/part1.txt"
+  const url2 = "https://raw.githubusercontent.com/calisfed/aieospeak/main/sources/part2.txt"
 
   let path1,path2;
   fetch(url1).then((response) => response.blob() ).then(result => result.text()).then(re => path1 = re)
