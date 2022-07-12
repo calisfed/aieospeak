@@ -1,0 +1,340 @@
+1. HOME/ ACCOMMODATION
+1. What kind of housing/accommodation do you live in?
+2. Who do you live with?
+3. How long have you lived there?
+4. What’s the difference between where you are living now and where you have
+lived in the past?
+5. Do you plan to live there for a long time?
+6. Which room does your family spend most of the time in?
+7. Are the transport facilities to your home very good?
+8. Do you prefer living in a house or a flat?
+9. Please describe the room you live in.
+10.What part of your home do you like the most ?
+
+2. STUDY
+1. Describe your education
+2. What is your area of specialization?
+3. Why did you choose to study that major?
+4. Do you like your major? (Why?/Why not?)
+5. What kind of school did you go to as a child?
+6. What was your favorite subject as a child?
+7. Do you think your country has an effective education system?
+8. Are you looking forward to working?
+
+3. WORK
+1. What do you do?
+2. What are your responsibilities?
+3. Why did you choose to do that type of work (or, that job)?
+4. Is there some other kind of work you would rather do?
+5. Describe the company or organization you work for
+6. Do you enjoy your work?
+7. What do you like about your job?
+8. What do you dislike about your job
+9. Do you miss being a student?
+
+4. MUSIC
+1. Do you like listening to music?
+2. When do you listen to music?
+3. Did you learn instruments?
+4. Did you have any music classes in school?
+5. Do you think it is necessary for children to have music classes?
+6. What do you think of Vietnamese traditional music?
+7. How much time do you spend listening to music every day?
+8. What is your favorite kind of music?
+9. When did you start listening to this type of music?
+10.How do you feel when you listen to music?
+
+5. HAIRCUT
+1. Have you ever had an unhappy haircut experience?
+2. How long have you had your current haircut?
+3. How often do you have a haircut?
+4. Do you like having your haircut?
+
+6. JEANS
+1. Do you wear jeans?
+2. How often do you wear jeans?
+3. Do you like wearing jeans, why?
+4. Why do you think jeans are popular?
+
+7. CONCENTRATION
+1. What do you need to be focused on?
+2. What might distract you when you are trying to stay focused?
+3. What do you do to help you concentrate?
+4. Is it difficult for you to stay focused on something?
+
+8. WALKING
+1. Where do you usually take a walk?
+2. Do you think people will walk more or not in the future?
+3. Do you walk more often in the past?
+4. Do you walk a lot?
+
+9. LANGUAGES
+1. Will you learn other languages in the future?
+2. Do you think it is difficult to learn a new language? 
+3. What language can you speak?
+4. Why do you learn English?
+
+10. FRIENDS
+1. What do you think makes good friends?
+2. Do you keep in contact with friends from your childhood?
+3. What kinds of people do you like to make friends with?
+4. Do you think you are a good friend to others?
+
+11. ANIMAL
+1. Have you ever kept pets?
+2. Do you like to go to the zoo?
+3. Have you ever seen any wild animals before?
+4. What wild animal do you like the most?
+
+12. MUSEUMS
+1. Do you go on field trips to museums to learn history?
+2. Do you learn much history at school?
+3. When was the last time you read a history publication?
+
+13. WATER SPORT
+1. Have you ever played water sports?
+2. What water sports do you like playing?
+3. Are water sports popular in Vietnam?
+
+14. PEN OR PENCIL
+1. When was the last time you bought a pen or pencil?
+2. Do you usually use a pen or pencil?
+3. What do you think if someone gives you a pen or a pencil as a gift?
+
+15. RUNNING
+1. Do you like running?
+2. Have you ever taken a running class?
+3. When was your last long run?
+4. Why do people need to run?
+5. Where do you think is a good place to run?
+6. Do you think running is a good way to stay healthy?
+
+16. SCENERY
+1. Is there any beautiful scenery in your hometown?
+2. How can you try to live in a house with a good view?
+3. Do people like to take photos of beautiful scenery?
+4. Why do people prefer to use mobile phones to take photos of beautiful
+scenery?
+
+17. NUMBERS
+1. Are you good at remembering numbers?
+2. Do you often use numbers?
+3. Is there any special number you like?
+
+18. SCIENCE
+1. Have you ever taken science courses?
+2. Is science important?
+3. Should we learn science?
+4. Did you have any science classes in elementary or high school?
+5. What kind of science do people usually study?
+
+19. LAUGH
+1. Do you like to watch movies or TV shows that make people laugh
+2. Do you usually make your friends laugh?
+3. Are you the kind of person who makes people laugh?
+
+20. ALONE
+1. When was the last time you were alone?
+2. What do you like to do when you are alone?
+3. Do you wish to have more time alone?
+4. Is it important to have some time alone? 
+
+21. CAKE
+1. Do you like desert?
+2. Do you like eating cakes?
+3. Have you ever made cakes?
+4. What are the special cakes in your country?
+
+22. MOVIES
+1. What is your favorite movie?
+2. Do your friends like this movie?
+3. What kinds of movies do you think young people like?
+4. Do you want to be a movie star?
+
+24. STREET MARKET
+1. Are street markets common in your country?
+2. What is usually sold there?
+3. Do you think people like street markets? Why?
+
+25. SKY
+1. Do you like to watch the sky?
+2. What is the sky like at night in your hometown?
+3. Do you like to watch stars?
+4. Have you ever taken a course about stars?
+5. What’s your favorite star?
+
+26. PLAN
+1. Do you make plans every day?
+2. Are you good at managing your time?
+3. What is the latest plan you made?
+4. What is the hardest part about making a plan?
+
+27. HOLIDAY
+1. What kinds of places do you like to go to on holiday?
+2. Who would you like to go on a holiday with?
+3. Where you plan to go for holidays in the future?
+
+28. SLEEP
+1. How long should people sleep for the benefit of their health?
+2. Do you think that the old should sleep more than the young?
+3. What do you do to improve sleeping quality?
+4. Do you think it's effective?
+
+29. PATIENCE
+1. What do you think patience is?
+2. Do you think patience is important? 
+3. Do you think being patient is an important part of being polite?
+4. Would you say you are a patient person?
+5. Have you ever lost your patience?
+6. What do you become impatient about?
+
+30. PHOTOS/PICTURES
+1. How do you keep your photos?
+2. In what situations do you take photos?
+3. How often do you take photos?
+4. Do you prefer to take photos yourself or to have other people take photos?
+
+31. HANDWRITING
+1. Do you often write things?
+2. Do you prefer to write by hand or write using a computer?
+3. Do you think computers might one day replace handwriting?
+4. When do children begin to write in your country?
+
+32. WATER SPORT
+1. Have you ever played water sports?
+2. What water sports do you like playing?
+3. Are water sports popular in Vietnam?
+
+33. AMUSEMENT PARK
+1. Do you like amusement park?
+2. How often do you go to an amusement park?
+3. What do you usually do at an amusement park?
+
+34. CELEBRITIES
+1. Who is your favorite celebrity in Vietnam?
+2. Do you like any foreign celebrities?
+3. Would you want to be a celebrity in the future?
+4. Do you think we should protect famous people's privacy?
+
+35. COOKING
+1. Who taught you how to cook?
+2. Do you like cooking?
+3. Is it difficult to cook?
+4. Do you want to learn how to cook?
+
+36. COLORS
+1. What is your favorite color?
+2. Do you like dark colors?
+3. Do you usually wear clothes in your favorite color?
+4. Are there any colors you dislike?
+
+37. TRAVELING
+1. Do you like to travel?
+2. Do you often travel by air?
+3. How long was the longest trip you took?
+4. Which country would you like to travel to in the future?
+5. Would you like to travel to space?
+
+38. PLANT
+1. Do you like plants?
+2. What plants do you like?
+3. Have you ever grown any plants?
+4. Did you grow any plants when you were a child?
+5. Do you know how to grow any plants?
+
+39. GARDEN
+1. Does your family have a garden?
+2. Do many people in Vietnam have their own garden?
+3. If someone has a private garden in Vietnam, do they usually prefer to grow
+flowers or vegetables?
+4. Have you ever grown anything?
+5. Do Vietnamese people like growing flowers?
+6. Do you like growing flowers?
+
+40. COUNTRYSIDE
+1. Would you like to live in the countryside in the future?
+2. What do people living in the countryside like to do?
+3. What are the benefits of living in rural areas?
+4. What are the differences between living in the city and the countryside?
+
+41. HISTORY
+1. Do you like learning history?
+2. What historical event do you find most interesting?
+3. Do you think history is important? 
+4. Do you like to watch programmes on TV about history?
+5. Do you think the internet is a good place to learn about history?
+
+42. DESSERTS
+1. Do you like dessert?
+2. Do you like eating cakes?
+3. Do you know how to bake a cake?
+4. When do you usually have desserts?
+
+43. SCIENCE
+1. Do you like science?
+2. What science have you studied?
+3. How do you study science?
+4. What’s the most difficult part of studying science?
+5. How has the science that you have studied helped you?
+
+44. TAKING A BREAK
+1. Do you prefer a long break or several breaks?
+2. How often do you take a break?
+3. What do you usually do during a break?
+4. When do you usually have a break?
+
+45.WATER
+1. Do you drink a lot of water every day?
+2. Do you drink tap or bottled water?
+3. Do you ever drink other kinds of water?
+4. Have you ever been thirsty but you didn’t have anything to drink?
+5. Is bottled water very expensive in your country?
+
+46. THE AREA YOU LIVE IN
+1. Do you like the area that you live in?
+2. What have been some changes in the area recently?
+3. Do you know any famous people in your area?
+4. Where do you like to go in that area?
+
+47. AGE
+1. What do you think is the best age to learn driving?
+2. How do you feel about getting older?
+3. Should we treat people of different ages in the same way?
+
+48. FISH
+1. Why do people go fishing?
+2. Do you like eating fish?
+3. Where can you see fish?
+
+49. ART
+1. Do you like art?
+2. Have you ever visited an art gallery?
+3. Is there any artwork on the wall in your room?
+4. Have you ever had art classes?
+
+50. JOKE AND COMEDIES
+1. Are you good at telling jokes?
+2. Do your friends like to tell jokes?
+3. Do you like to watch comedies?
+4. Have you ever watched a live show?
+
+51. INSECTS
+1. How do you like insects?
+2. Are there many different insects where you live?
+3. Do you think insects are useful?
+
+52. LANGUAGES
+1. What languages do you speak?
+2. Do you think it’s difficult to learn a new language?
+3. Will you learn other languages in the future?
+4. Why do you learn English?
+
+53. NEWSPAPER & MAGAZINE
+1. Do you prefer to read a newspaper or magazine?
+2. Do you prefer to read news online or in a newspaper?
+
+54. STARS
+1. Who is your favorite movie star?
+2. Are international superstars popular in your country?
+3. Have you ever met a celebrity/superstar in real life?
+4. Do you want to be a superstar?
